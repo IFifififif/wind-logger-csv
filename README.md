@@ -76,6 +76,8 @@ wind-csv history --place 赤峰 --start-date 2023-01-01 --end-date 2023-01-31 \
   --hourly wind_speed_10m
 ```
 
+> **第一次使用 GitHub？** 请阅读《[GitHub 新手一步步获取过去一年的风速数据](docs/github_history_walkthrough.md)》，从注册账号、克隆仓库到执行 `wind-csv history` 的完整流程都已列出，可直接照着操作。
+
 ## 配置（环境变量或 `.env`）
 
 * `CSV_FILE=wind_log.csv`
