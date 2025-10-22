@@ -76,7 +76,9 @@ wind-csv history --place 赤峰 --start-date 2023-01-01 --end-date 2023-01-31 \
   --hourly wind_speed_10m
 ```
 
-> **第一次使用 GitHub？** 请阅读《[GitHub 新手一步步获取过去一年的风速数据](docs/github_history_walkthrough.md)》，从注册账号、克隆仓库到执行 `wind-csv history` 的完整流程都已列出，可直接照着操作。
+> **第一次使用 GitHub？**
+> * 如果你需要把整个项目放到自己的账号下，请先阅读《[将 wind-logger-csv 完整创建到自己的 GitHub 仓库](docs/github_repo_setup.md)》，了解如何创建仓库、推送本地代码或使用模板。
+> * 之后可继续参考《[GitHub 新手一步步获取过去一年的风速数据](docs/github_history_walkthrough.md)》，完成虚拟环境配置与 `wind-csv history` 命令的执行。
 
 ## 配置（环境变量或 `.env`）
 
