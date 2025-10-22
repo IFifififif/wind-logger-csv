@@ -1,0 +1,19 @@
+# venv
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# env
+.env
+
+# CSV 输出
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
